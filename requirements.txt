@@ -1,0 +1,12 @@
+beautifulsoup4==4.12.2
+certifi==2023.7.22
+charset-normalizer==3.3.0
+et-xmlfile==1.1.0
+idna==3.4
+openpyxl==3.1.2
+requests==2.31.0
+soupsieve==2.5
+urllib3==2.0.6
+
+Pillow~=10.0.1
+selenium~=4.14.0
